@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@types/long": "^4.0.2",
-    "@types/node": "^18.0.3"
+    "@types/node": "^22.7.6"
   }
 }
