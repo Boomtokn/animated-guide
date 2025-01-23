@@ -28,7 +28,7 @@
     "@certusone/wormhole-sdk": "^0.10.5",
     "@certusone/wormhole-spydk": "^0.0.1",
     "@mysten/sui.js": "^0.32.2",
-    "@solana/spl-token": "^0.1.8",
+    "@solana/spl-token": "^0.4.9",
     "@solana/web3.js": "^1.24.0",
     "@terra-money/terra.js": "^3.0.10",
     "body-parser": "^1.19.0",
